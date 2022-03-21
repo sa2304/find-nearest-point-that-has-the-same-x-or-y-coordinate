@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(find_nearest_point_that_has_the_same_x_or_y_coordinate)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(find_nearest_point_that_has_the_same_x_or_y_coordinate main.cpp)
